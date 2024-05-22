@@ -10,7 +10,7 @@
 			<!-- resume header with your name and title -->
 			<h1>FURQAN SHAIKH</h1>
 			<hr>
-			COMPUTER SCIENCE STUDENT
+				<b>COMPUTER SCIENCE STUDENT</b>
 			<hr>
 		</header>
 		<main>
